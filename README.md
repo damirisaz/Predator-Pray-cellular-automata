@@ -1,1 +1,3 @@
-# Predator-Pray-cellular-automata
+Модель клеточного автомата "Predator-Prey"
+Построен с помощью библиотеки pygame
+весь код находится в файле main.py
